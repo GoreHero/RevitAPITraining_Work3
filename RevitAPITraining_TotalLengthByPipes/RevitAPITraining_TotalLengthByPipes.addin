@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPITraining_TotalLengthByPipes.dll</Assembly>
+		<AddInId>926034FF-7DE1-4BAE-8C25-BE1256A526B0</AddInId>
+		<FullClassName>RevitAPITraining_TotalLengthByPipes.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPITraining_TotalLengthByPipes</Text>
+	</AddIn>
+</RevitAddIns>

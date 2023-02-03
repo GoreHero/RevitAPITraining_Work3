@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPITraining_ProjectParameter.dll</Assembly>
+		<AddInId>A71CB459-3D10-4F0A-8361-29B8CC337F8E</AddInId>
+		<FullClassName>RevitAPITraining_ProjectParameter.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание параметра для труб(тренинг)</Text>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITraining_VolumeBySelectedWallFaces", "RevitAPITraining_VolumeBySelectedWallFaces\RevitAPITraining_VolumeBySelectedWallFaces.csproj", "{252AAB40-18F5-4D9B-99BE-D05259EDEACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITraining_TotalLengthByPipes", "RevitAPITraining_TotalLengthByPipes\RevitAPITraining_TotalLengthByPipes.csproj", "{F4FFE567-9343-4CAC-8997-F9262572BA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITraining_ParameterEntry", "RevitAPITraining_ParameterEntry\RevitAPITraining_ParameterEntry.csproj", "{285D5CFB-9C6D-4F18-9428-A1A5F342B8E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITraining_ProjectParameter", "RevitAPITraining_ProjectParameter\RevitAPITraining_ProjectParameter.csproj", "{35072898-A4BC-445D-8134-71C33186421C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252AAB40-18F5-4D9B-99BE-D05259EDEACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252AAB40-18F5-4D9B-99BE-D05259EDEACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252AAB40-18F5-4D9B-99BE-D05259EDEACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252AAB40-18F5-4D9B-99BE-D05259EDEACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FFE567-9343-4CAC-8997-F9262572BA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FFE567-9343-4CAC-8997-F9262572BA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FFE567-9343-4CAC-8997-F9262572BA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FFE567-9343-4CAC-8997-F9262572BA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285D5CFB-9C6D-4F18-9428-A1A5F342B8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285D5CFB-9C6D-4F18-9428-A1A5F342B8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285D5CFB-9C6D-4F18-9428-A1A5F342B8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285D5CFB-9C6D-4F18-9428-A1A5F342B8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35072898-A4BC-445D-8134-71C33186421C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35072898-A4BC-445D-8134-71C33186421C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35072898-A4BC-445D-8134-71C33186421C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35072898-A4BC-445D-8134-71C33186421C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BEC42F5-AA0B-4186-A3BE-146747109DE4}
+	EndGlobalSection
+EndGlobal

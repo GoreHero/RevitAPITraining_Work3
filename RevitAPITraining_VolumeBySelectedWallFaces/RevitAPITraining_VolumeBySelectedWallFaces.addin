@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPITraining_VolumeBySelectedWallFaces.dll</Assembly>
+		<AddInId>2EF9C03B-03DA-4C43-A9C1-98E6EE69816C</AddInId>
+		<FullClassName>RevitAPITraining_VolumeBySelectedWallFaces.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPITraining_VolumeBySelectedWallFaces</Text>
+	</AddIn>
+</RevitAddIns>

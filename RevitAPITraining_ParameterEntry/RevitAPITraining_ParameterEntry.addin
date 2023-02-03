@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPITraining_ParameterEntry.dll</Assembly>
+		<AddInId>7DB2A381-DD9C-46B7-822F-62DD3D0C8353</AddInId>
+		<FullClassName>RevitAPITraining_ParameterEntry.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запись параметра длина с запасом для труб</Text>
+	</AddIn>
+</RevitAddIns>
